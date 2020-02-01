@@ -1,0 +1,36 @@
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\bilin\Desktop\Project\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\atidem\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\atidem\Desktop\soft computing\proje 1\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\bilin\Desktop\Github Repo\HeuristicsForKnapsackProblem-Different Heuristic Algorithms for solving 0-1 Knapsack Problem\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
