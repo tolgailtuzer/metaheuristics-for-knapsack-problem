@@ -3,12 +3,14 @@ The knapsack problem is a problem in combinatorial optimization: Given a set of 
 
 We will solve the 0-1 Knapsack type of this problem with the following methods:
 
-<ul>
-  <li>- [ ] Simulated Annealing</li>
-  <li>- [ ] Genetic Algorithm</li>
-  <li>- [ ] Ant Colony Algorithm</li>
-  <li>- [ ] Artificial Bee Colony Algorithm</li>
-</ul>
+- [x] Simulated Annealing
+
+- [x] Genetic Algorithm
+
+- [x] Ant Colony Algorithm
+
+- [ ] Artificial Bee Colony Algorithm
+
 
 # Information About Input Format
 
