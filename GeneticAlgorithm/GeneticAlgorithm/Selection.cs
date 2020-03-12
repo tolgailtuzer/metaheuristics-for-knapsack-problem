@@ -10,7 +10,7 @@ namespace GeneticAlgorithm
     class Selection
     {
         // Choose a parent id in pop  
-        public static int[] RouletChark(double[] fit)
+        public static int[] RouletChart(double[] fit)
         {
             double sum = 0;
             double[] p = RandomGenerator.Generate(Program.n);
